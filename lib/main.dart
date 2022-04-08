@@ -12,7 +12,7 @@ class App extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Future Builder',
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const HomePage(title: 'Flutter Demo Home Page'),
+      home: const HomePage(title: 'Future Builder'),
     );
   }
 }
